@@ -1,5 +1,5 @@
 # -Consumer-Complaints-Dashboard-Overview
-####-I have recently developed an interactive Excel dashboard on the 
+I have recently developed an interactive Excel dashboard on the 
 🔍 Consumer Complaints Dashboard Overview
 This interactive dashboard visualizes real-time consumer complaint data submitted across various financial products and services. It provides deep insights into complaint trends, company responses, and resolution timeliness, helping both consumers and organizations understand where service gaps may exist.
 
